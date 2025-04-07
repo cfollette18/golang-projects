@@ -1,4 +1,4 @@
-# Drouhlin
+# Project: Drouhlin
 
 ## Overview
 Drouhlin is a RESTful API built with Go that enables users to manage bank accounts and perform basic financial operations. It supports account creation, retrieval, deletion, and fund transfers, with secure authentication via JWT (JSON Web Tokens). The project uses Gorilla Mux for routing and PostgreSQL for persistent storage, storing account details like ID, name, number, balance, and encrypted password.
